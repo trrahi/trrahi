@@ -11,3 +11,4 @@
 
 ## 🌱 Learning right now
 - 🔧 Building my first comprehensive SPA - coming soon
+- 🔧 Advancing my skills in unit and E2E testing
