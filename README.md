@@ -8,9 +8,9 @@
 
 
 ## 🚀 My Current Skills
-    - 🤓 JS, node.js, express.js, React, MongoDB and a little Python
-    - 🎨 UI design in Figma
-    - 🔧 Data-flow modeling with draw.io
+- 🤓 JS, node.js, express.js, React, MongoDB and a little Python
+- 🎨 UI design in Figma
+- 🔧 Data-flow modeling with draw.io
 ---
 
 
